@@ -1,4 +1,4 @@
-# Double-Ninth-Festival-Gift-System
+# Chongyang Festival Gift Distribution Verification System,
 
 This is the "Chongyang Festival Gift Distribution Verification System," which I developed using PHP. Its main purpose is to verify whether applicants meet the eligibility criteria:
 
